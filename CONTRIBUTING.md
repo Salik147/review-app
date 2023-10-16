@@ -41,6 +41,17 @@ We follow these guidelines for contributing:
 
    ```bash
    git checkout -b feature-name
+
+4. After Making change/Contribution/Modifying stage the changes to a file:
+
+   ```bash
+   git add filename
+   ```
+   or
+
+   to stage changes in all directories
+   ```bash
+   git add .
    ```
 
 5. Make your changes and ensure your code follows our coding standards and practices.
